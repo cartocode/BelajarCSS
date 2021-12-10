@@ -1,0 +1,9 @@
+h1 {
+  /*tag heading 1*/
+  color: green; /*memberi warna hijau pada tag h1*/
+}
+.pertama {
+  /* tag p dengan class pertama*/
+  font-size: 20px; /*ukuran text*/
+  color: red; /*memberi warna pada text*/
+}
