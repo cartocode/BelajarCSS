@@ -1,0 +1,12 @@
+.center {
+  text-align: center;
+  color: black;
+  font-size: 18px;
+}
+button {
+  width: 100px;
+  height: 35px;
+  color: chocolate;
+  font-size: 18px;
+  text-align: center;
+}
