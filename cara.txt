@@ -1,0 +1,13 @@
+akses token github
+git config --global user.name "nama_user"
+git config --global user.email "name_email"
+git config -l
+
+token : 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 - url : https://github.com/cartocode/BelajarCSS.git
+
+
+git init
+git add file-name
+git commit -m "nama komentar komit"
+git remote add origin url
+git push -u origin master
